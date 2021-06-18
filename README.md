@@ -1,4 +1,4 @@
-# traversy_vuejs_2021
+# todo2021
 
 ## Project setup
 ```
